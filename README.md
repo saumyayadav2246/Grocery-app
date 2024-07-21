@@ -1,4 +1,4 @@
-# grocery_admin_panel
+# grocery_app
 
 A new Flutter project.
 
